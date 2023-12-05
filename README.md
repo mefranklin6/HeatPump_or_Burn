@@ -1,5 +1,5 @@
 # HeatPump_or_Burn
-Uses simple machine learning to find the point at which it is cheaper to use a heat pump.  Useful for setting thresholds in dual-fuel HVAC systems.
+Useful for setting thresholds in dual-fuel HVAC systems. Uses simple machine learning to find the point at which it is cheaper to use a heat pump.  
 
 Currently only supports natural gas, American units, and single-stage systems.
 
